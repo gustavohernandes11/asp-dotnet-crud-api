@@ -1,0 +1,6 @@
+notes.md
+bin
+obj
+app.db
+/Migrations
+.vscode
